@@ -42,7 +42,7 @@ pubPaginate = 20
 # whoami
 myname = "Haochen Shi"
 email = "hshi74@wisc.edu"
-whoami = "Computer Sciences Student"
+whoami = "Junior, Computer Sciences BS"
 bioImageUrl = ""
 useGravatar = false
 location = "Madison, WI"

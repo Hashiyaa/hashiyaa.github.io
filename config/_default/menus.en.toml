@@ -5,23 +5,19 @@
   weight = 1
 
 [[main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "resume"
+  weight = 2
+
+[[main]]
   identifier = "showcase"
   name = "Showcase"
   url = "showcase"
-  weight = 2
+  weight = 3
 
 [[main]]
   identifier = "gallery"
   name = "Gallery"
   url = "gallery"
-  weight = 3
-    
-[[main]]
-  parent = "gallery"
-  name = "Animation"
-  url = "gallery/animation"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+  weight = 4
