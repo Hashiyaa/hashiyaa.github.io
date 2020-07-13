@@ -17,7 +17,7 @@
   weight = 3
 
 [[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
   weight = 4

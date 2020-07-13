@@ -9,9 +9,9 @@ meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHome = ["about", "resume"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "resume"]
 
 viewportSize = "wide" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
@@ -141,18 +141,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "haochen213300@gmail.com"
+  email = "hshi74@wisc.edu"
   phone = ""
-  facebook = ""
+  facebook = "https://www.facebook.com/haochen.shi.108/"
   twitter = ""
-  github = ""
+  github = "https://github.com/Hashiyaa"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/haochen-shi/?locale=en_US"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
@@ -180,15 +180,10 @@ commento = false
   patreon = ""
 
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
-[[share]]
-  name = "facebook"
-  username = ""
-[[share]]
-  name = "twitter"
+# [[share]]
+#   name = ""
+#   username = ""
 
-[[footerLinks]]
-  name = ""
-  link = ""
-[[footerLinks]]
-  name = ""
-  link = ""
+# [[footerLinks]]
+#   name = ""
+#   link = ""

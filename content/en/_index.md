@@ -1,7 +1,5 @@
 ---
 title: "Home"
-date: 2020-03-25T11:59:13-05:00
-draft: false
-description: "Home"
+date: 2020-03-26T17:29:37-05:00
+description: The Home Page
 ---
-Welcome!
