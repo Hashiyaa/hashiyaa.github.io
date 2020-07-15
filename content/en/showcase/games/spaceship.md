@@ -6,5 +6,5 @@ link: https://hashiyaa.github.io/Spaceship/
 repo: https://github.com/Hashiyaa/Spaceship
 pinned: true
 thumb: spaceship/spaceship.png
-weight: 1
+weight: 2
 ---

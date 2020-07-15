@@ -5,5 +5,5 @@ description: Practice social distancing, get prepared for self-quarentine, and d
 link: https://www.puzzlescript.net/play.html?p=4956854d7392cb6277780ba47ccc7f45
 pinned: true
 thumb: avoid-coronavirus/screenshot.png
-weight: 2
+weight: 3
 ---
