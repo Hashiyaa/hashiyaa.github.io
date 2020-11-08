@@ -2,15 +2,15 @@ logo = false
 logoText = "Haochen Shi"
 logoType = "short" # long, short
 description = "Haochen's personal website"
-custom_css = []
+custom_css = ["css/custom.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker"]
-notAllowedTypesInHome = ["about", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "resume"]
+notAllowedTypesInHome = []
+notAllowedTypesInHomeSidebar = ["about", "archive", "resume", "projects", "posts", "publications"]
 notAllowedTypesInHomeFeed = ["about", "archive", "resume"]
 
 viewportSize = "wide" # widest, wider, wide, normal, narrow
@@ -24,9 +24,9 @@ homeHeaderType = "text" # text, img, slide
 showMobileMenuTerms = ["tags", "categories", "series"]
 
 # body
-enableBreadcrumb = true
-enablePhotoSwipe = true
-enableSearch = true
+enableBreadcrumb = false
+enablePhotoSwipe = false
+enableSearch = false
 enableSearchHighlight = true
 enableGoToTop = true
 enableWhoami = true
@@ -42,7 +42,7 @@ pubPaginate = 20
 # whoami
 myname = "Haochen Shi"
 email = "hshi74@wisc.edu"
-whoami = "Junior, Computer Sciences BS"
+whoami = "Computer Science Undergraduate"
 bioImageUrl = ""
 useGravatar = false
 location = "Madison, WI"
@@ -53,26 +53,26 @@ organization = "University of Wisconsin-Madison"
 enableBio = true
 enableBioImage = true
 enableSidebar = true
-enableSidebarTags = true
-enableSidebarSeries = true
-enableSidebarCategories = true
-enableHomeSidebarTitles = true
-enableListSidebarTitles = true
+enableSidebarTags = false
+enableSidebarSeries = false
+enableSidebarCategories = false
+enableHomeSidebarTitles = false
+enableListSidebarTitles = false
 enableToc = false
 hideToc = true
 tocFolding = true
 tocPosition = "inner" # inner, outer
 enableTocSwitch = true
 itemsPerCategory = 5
-sidebarPosition = "right"
+sidebarPosition = "left"
 tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
-showFeedLinks = true
+showPoweredBy = false
+showFeedLinks = false
 showSocialLinks = false
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service
@@ -143,7 +143,7 @@ commento = false
 [socialOptions]
   email = "hshi74@wisc.edu"
   phone = ""
-  facebook = "https://www.facebook.com/haochen.shi.108/"
+  facebook = ""
   twitter = ""
   github = "https://github.com/Hashiyaa"
   stack-overflow = ""

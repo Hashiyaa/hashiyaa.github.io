@@ -16,7 +16,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "G-268XFKXG74"
 
 [markup]
   [markup.goldmark]
@@ -33,13 +33,6 @@ googleAnalytics = ""
     endLevel = 4
     ordered = false
     startLevel = 2
-
-[outputs]
-  page = ["HTML", "SearchIndex"]
-  home = ["HTML", "RSS", "SearchIndex"]
-  section = ["HTML", "RSS", "SearchIndex"]
-  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
-  taxonomy = ["HTML", "RSS", "SearchIndex"]
 
 [outputFormats]
   [outputFormats.SearchIndex]

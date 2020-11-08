@@ -1,7 +1,7 @@
 [[main]]
-  identifier = "about"
-  name = "About"
-  url = "about"
+  identifier = "publication"
+  name = "Publications"
+  url = "publication"
   weight = 1
 
 [[main]]
@@ -12,7 +12,7 @@
 
 [[main]]
   identifier = "showcase"
-  name = "Showcase"
+  name = "Projects"
   url = "showcase"
   weight = 3
 
