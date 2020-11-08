@@ -1,0 +1,69 @@
+.wrapper {
+    max-width: 100%;
+    margin: 0px;
+}
+
+.main.inner {
+    grid-template-columns: 310px 1fr 1fr;
+}
+
+.navbar {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.list__sidebar.l[data-dir=ltr] {
+    margin-left: 2.5rem;
+}
+
+.bio__photo-wrapper {
+    margin-left: 0px;
+}
+
+.bio__info--icon {
+    padding-right: 5px;
+}
+
+.hr-fade.sidebar-hr {
+    display: none;
+}
+
+.hr-slash.bio-hr {
+    display: none;
+}
+
+.bio__social {
+    display: none;
+}
+
+.breadcrumb {
+    max-width: 100%;
+}
+
+/* Publication */
+
+.main.pub {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.single__meta {
+    margin-bottom: 1rem;
+}
+
+/* Resume */
+
+.resume__section[data-dir=ltr] .resume__section--side {
+    width: 15%;
+}
+
+.resume__section[data-dir=ltr] .resume__section--main {
+    width: 80%;
+}
+
+/* Posts */
+
+.main.posts {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
