@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Games on Haochen Shi | 史浩辰</title>
+    <link>/showcase/games/</link>
+    <description>Recent content in Games on Haochen Shi | 史浩辰</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hshi74@wisc.edu (Haochen Shi)</managingEditor>
+    <webMaster>hshi74@wisc.edu (Haochen Shi)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 26 Mar 2020 17:36:27 -0500</lastBuildDate>
+    
+        <atom:link href="/showcase/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Tank Expert</title>
+        <link>/showcase/games/tank-expert/</link>
+        <pubDate>Tue, 14 Jul 2020 21:59:30 -0500</pubDate>
+        <author>hshi74@wisc.edu (Haochen Shi)</author>
+        <atom:modified>Tue, 14 Jul 2020 21:59:30 -0500</atom:modified>
+        <guid>/showcase/games/tank-expert/</guid>
+        <description></description>
+        
+        <dc:creator>Haochen Shi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Spaceship - The Garbage Collector</title>
+        <link>/showcase/games/spaceship/</link>
+        <pubDate>Thu, 26 Mar 2020 23:34:18 -0500</pubDate>
+        <author>hshi74@wisc.edu (Haochen Shi)</author>
+        <atom:modified>Thu, 26 Mar 2020 23:34:18 -0500</atom:modified>
+        <guid>/showcase/games/spaceship/</guid>
+        <description></description>
+        
+        <dc:creator>Haochen Shi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Avoid Coronavirus</title>
+        <link>/showcase/games/avoid-coronavirus/</link>
+        <pubDate>Thu, 26 Mar 2020 23:34:18 -0500</pubDate>
+        <author>hshi74@wisc.edu (Haochen Shi)</author>
+        <atom:modified>Thu, 26 Mar 2020 23:34:18 -0500</atom:modified>
+        <guid>/showcase/games/avoid-coronavirus/</guid>
+        <description></description>
+        
+        <dc:creator>Haochen Shi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
