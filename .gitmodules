@@ -4,7 +4,3 @@
 [submodule "themes/zzo"]
 	path = themes/zzo
 	url = https://github.com/zzossig/hugo-theme-zzo
-[submodule "public"]
-	path = public
-	url = git@github.com:Hashiyaa/hashiyaa.github.io.git
-	branch = master
