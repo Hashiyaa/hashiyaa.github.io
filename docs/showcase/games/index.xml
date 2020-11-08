@@ -6,29 +6,20 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>home on Haochen Shi | 史浩辰</title>
-    <link>/</link>
-    <description>Recent content in home on Haochen Shi | 史浩辰</description>
+    <title>Games on Haochen Shi | 史浩辰</title>
+    <link>/showcase/games/</link>
+    <description>Recent content in Games on Haochen Shi | 史浩辰</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hshi74@wisc.edu (Haochen Shi)</managingEditor>
     <webMaster>hshi74@wisc.edu (Haochen Shi)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 12:00:34 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 17:36:27 -0500</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/showcase/games/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>
@@ -74,42 +65,6 @@
         <author>hshi74@wisc.edu (Haochen Shi)</author>
         <atom:modified>Thu, 26 Mar 2020 23:34:18 -0500</atom:modified>
         <guid>/showcase/games/avoid-coronavirus/</guid>
-        <description></description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Welcome</title>
-        <link>/posts/welcome/</link>
-        <pubDate>Mon, 13 Jul 2020 13:48:28 -0500</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        <atom:modified>Mon, 13 Jul 2020 13:48:28 -0500</atom:modified>
-        <guid>/posts/welcome/</guid>
-        <description>Hi there! My name is Haochen Shi. Welcome to my personal website!</description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot Motions with Environment Collision Avoidance</title>
-        <link>/publication/conference/collisionik/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        
-        <guid>/publication/conference/collisionik/</guid>
         <description></description>
         
         <dc:creator>Haochen Shi</dc:creator>
