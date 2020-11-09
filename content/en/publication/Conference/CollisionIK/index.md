@@ -27,6 +27,6 @@ title: "CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot
 ENTRYTYPE: "conference"
 enableToc: False
 enableWhoami: False
-pinned: False
+pinned: True
 publishDate: "Under review"
 ---

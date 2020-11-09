@@ -5,6 +5,6 @@ description: Shoot! Shoot! Shoot! Destroy your enemies and challenge yourself!
 link: https://hashiyaa.github.io/Tank-Expert/
 repo: https://github.com/Hashiyaa/Tank-Expert
 pinned: true
-thumb: tank-expert/versus.png
+thumb: tank-expert/tank.png
 weight: 1
 ---

@@ -1,23 +1,23 @@
 [[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 1
+
+[[main]]
   identifier = "publication"
   name = "Publications"
   url = "publication"
-  weight = 1
+  weight = 2
 
 [[main]]
   identifier = "resume"
   name = "Resume"
   url = "resume"
-  weight = 2
+  weight = 3
 
 [[main]]
   identifier = "showcase"
   name = "Projects"
   url = "showcase"
-  weight = 3
-
-[[main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "posts"
   weight = 4
