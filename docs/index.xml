@@ -86,24 +86,6 @@
       </item>
       
       <item>
-        <title>Welcome</title>
-        <link>/posts/welcome/</link>
-        <pubDate>Mon, 13 Jul 2020 13:48:28 -0500</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        <atom:modified>Mon, 13 Jul 2020 13:48:28 -0500</atom:modified>
-        <guid>/posts/welcome/</guid>
-        <description>Hi there! My name is Haochen Shi. Welcome to my personal website!</description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot Motions with Environment Collision Avoidance</title>
         <link>/publication/conference/collisionik/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
