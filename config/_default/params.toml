@@ -8,7 +8,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light", "hacker"]
+themeOptions = ["light", "dark", "hacker"]
 notAllowedTypesInHome = []
 notAllowedTypesInHomeSidebar = ["about", "archive", "resume", "projects", "posts", "publications"]
 notAllowedTypesInHomeFeed = ["about", "archive", "resume"]
@@ -21,7 +21,7 @@ hideSingleContentsWhenJSDisabled = false
 homeHeaderType = "text" # text, img, slide
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+showMobileMenuTerms = []
 
 # body
 enableBreadcrumb = false
