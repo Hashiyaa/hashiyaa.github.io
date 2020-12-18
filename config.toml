@@ -2,20 +2,20 @@ baseURL = ""
 languageCode = "en-us"
 title = "Haochen Shi"
 theme = "m10c"
-avatar = "/static/avatar.jpg"
-favicon = "/static/favicon.ico"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "about"
+    name = "About"
     url = "/"
   [[menu.main]]
     identifier = "resume"
     name = "Resume/CV"
-    url = "/resume.pdf"
+    url = "/static/resume.pdf"
 
 [params]
+  avatar = "/static/avatar.jpg"
+  favicon = "/static/favicon.ico"
   author = "Haochen Shi"
   description = "Undergraduate at UW-Madision"
   menu_item_separator = " - "
