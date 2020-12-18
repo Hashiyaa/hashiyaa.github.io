@@ -1,3 +1,3 @@
-# hashiyaa.github.io
+# Personal Website
 
-My personal website
+Here is my [personal website](https://hashiyaa.github.io/)!

@@ -1,109 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on Haochen Shi | 史浩辰</title>
+    <title>Haochen Shi</title>
     <link>/</link>
-    <description>Recent content in home on Haochen Shi | 史浩辰</description>
+    <description>Recent content on Haochen Shi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>hshi74@wisc.edu (Haochen Shi)</managingEditor>
-    <webMaster>hshi74@wisc.edu (Haochen Shi)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 12:00:34 -0500</lastBuildDate>
-    
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Myself</title>
+      <link>/</link>
+      <pubDate>Fri, 18 Dec 2020 14:10:41 -0600</pubDate>
       
-      
-      
-        
-      
-        
-      
-        
-      
-
-      
-      <item>
-        <title>Tank Expert</title>
-        <link>/showcase/games/tank-expert/</link>
-        <pubDate>Tue, 14 Jul 2020 21:59:30 -0500</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        <atom:modified>Tue, 14 Jul 2020 21:59:30 -0500</atom:modified>
-        <guid>/showcase/games/tank-expert/</guid>
-        <description></description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Spaceship - The Garbage Collector</title>
-        <link>/showcase/games/spaceship/</link>
-        <pubDate>Thu, 26 Mar 2020 23:34:18 -0500</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        <atom:modified>Thu, 26 Mar 2020 23:34:18 -0500</atom:modified>
-        <guid>/showcase/games/spaceship/</guid>
-        <description></description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Avoid Coronavirus</title>
-        <link>/showcase/games/avoid-coronavirus/</link>
-        <pubDate>Thu, 26 Mar 2020 23:34:18 -0500</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        <atom:modified>Thu, 26 Mar 2020 23:34:18 -0500</atom:modified>
-        <guid>/showcase/games/avoid-coronavirus/</guid>
-        <description></description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot Motions with Environment Collision Avoidance</title>
-        <link>/publication/conference/collisionik/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>hshi74@wisc.edu (Haochen Shi)</author>
-        
-        <guid>/publication/conference/collisionik/</guid>
-        <description></description>
-        
-        <dc:creator>Haochen Shi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-
+      <guid>/</guid>
+      <description>I am currently an undergraduate majoring in Computer Science at the University of Wisconsin-Madison. My research interests include robotics, computer vision, machine learning, optimization, computer graphics, and potentially more. I am working with Professor Michael Gleicher and Professor Bilge Mutlu on several motion planning projects in the Collaborative Robotics Laboratory. A large part of my research experience has involved investigating and extending RelaxedIK, a framework previously developed in our lab for generating accurate and feasible robot arm motions in real-time.</description>
+    </item>
     
   </channel>
 </rss>
